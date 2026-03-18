@@ -1,5 +1,4 @@
 //Author: Jax hendrickson
-//Date: 12/1/2023
 //Purpose: To design a machine language model that can emulate an ARM assembly machine. 
 #include <iostream>
 #include <fstream>
